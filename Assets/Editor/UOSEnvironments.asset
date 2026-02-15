@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5f1c0254cc6f415396fab55e2b1a880, type: 3}
+  m_Name: UOSEnvironments
+  m_EditorClassIdentifier: 
+  environments:
+  - environmentName: My project 2025-12-2 0:04:56
+    appID: affd9fac-087d-43a2-8c01-458963392f2c
+    appSecret: 34f95954c52b430ebc607b1201988e90
+    appServiceSecret: df84e953135c48ca9284f181c96c7533
+    roomProfileUUID: 
+    matchmakingConfigID: 
+    configPairs: []
+  - environmentName: My project 2025-12-3 10:02:23
+    appID: ab1cc7f6-781a-4dda-a340-4fd7325ef361
+    appSecret: be3552d3a362456d8b288a4cbc8656a8
+    appServiceSecret: a7ec8a46906542668906dad24b03b5ff
+    roomProfileUUID: 
+    matchmakingConfigID: 
+    configPairs: []
+  selectedAppID: ab1cc7f6-781a-4dda-a340-4fd7325ef361

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: CnoZ5yOkWy37gFcalsSnmlo5AZOUxOt1JpEsOrFXx5z8ZwO9zl/p28g=
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainCam: {instanceID: 0}
+  - prefabRed: {fileID: 6980039974339428412, guid: dc98f1adbeca56d4b9fcf5661d802ebb, type: 3}
+  - prefabBlue: {fileID: 3433274493347987630, guid: ca0cfc33428a83b4eab0375ce3c1ff49, type: 3}
+  - prefabPurple: {fileID: 3302738923777645024, guid: b6a83fcdcbcd9ab418a92971ceb1224a, type: 3}
+  - prefabGreen: {fileID: 5648100860780812217, guid: 5c9d6fd427a7bf04993d1dca1d5ba424, type: 3}
+  - explosionPrefab: {fileID: 869171034591263295, guid: c6e93ba5391f4f340aa182f62bd51b09, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
